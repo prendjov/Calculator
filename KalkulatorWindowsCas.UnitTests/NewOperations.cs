@@ -8,5 +8,6 @@ namespace KalkulatorWindowsCas.UnitTests
 {
     class NewOperations
     {
+        public int Test { get; set; }
     }
 }
