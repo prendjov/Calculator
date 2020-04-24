@@ -1,0 +1,9 @@
+D:\(Back-End)\Od Chasovi\Moe\KalkulatorWindowsChas\KalkulatorWindowsChas\bin\Debug\KalkulatorWindowsChas.exe.config
+D:\(Back-End)\Od Chasovi\Moe\KalkulatorWindowsChas\KalkulatorWindowsChas\bin\Debug\KalkulatorWindowsChas.exe
+D:\(Back-End)\Od Chasovi\Moe\KalkulatorWindowsChas\KalkulatorWindowsChas\bin\Debug\KalkulatorWindowsChas.pdb
+D:\(Back-End)\Od Chasovi\Moe\KalkulatorWindowsChas\KalkulatorWindowsChas\obj\Debug\KalkulatorWindowsChas.csprojAssemblyReference.cache
+D:\(Back-End)\Od Chasovi\Moe\KalkulatorWindowsChas\KalkulatorWindowsChas\obj\Debug\KalkulatorWindowsChas.Form1.resources
+D:\(Back-End)\Od Chasovi\Moe\KalkulatorWindowsChas\KalkulatorWindowsChas\obj\Debug\KalkulatorWindowsChas.Properties.Resources.resources
+D:\(Back-End)\Od Chasovi\Moe\KalkulatorWindowsChas\KalkulatorWindowsChas\obj\Debug\KalkulatorWindowsChas.csproj.GenerateResource.cache
+D:\(Back-End)\Od Chasovi\Moe\KalkulatorWindowsChas\KalkulatorWindowsChas\obj\Debug\KalkulatorWindowsChas.exe
+D:\(Back-End)\Od Chasovi\Moe\KalkulatorWindowsChas\KalkulatorWindowsChas\obj\Debug\KalkulatorWindowsChas.pdb
